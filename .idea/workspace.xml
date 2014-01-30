@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="406a02d0-15d7-4c54-8803-6bcb31abb4eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/header.php" afterPath="$PROJECT_DIR$/views/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/style.css" afterPath="$PROJECT_DIR$/public/css/style.css" />
     </list>
     <ignored path="mvc.iws" />
@@ -43,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/views/about/index.php" />
         <option value="$PROJECT_DIR$/views/index/index.php" />
         <option value="$PROJECT_DIR$/controllers/login.php" />
         <option value="$PROJECT_DIR$/libs/Controller.php" />
@@ -59,6 +57,7 @@
         <option value="$PROJECT_DIR$/libs/Database.php" />
         <option value="$PROJECT_DIR$/config/database.php" />
         <option value="$PROJECT_DIR$/views/header.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
       </list>
     </option>
   </component>
@@ -369,11 +368,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../brigada/components/com_community/libraries/url.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="576" selection-end="576" vertical-scroll-proportion="0.23462985" vertical-offset="0" max-vertical-offset="797" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../brigada/components/com_community/defines.community.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="833" selection-end="833" vertical-scroll-proportion="-5.0363865" vertical-offset="4320" max-vertical-offset="5117" />
@@ -449,6 +443,13 @@
     <entry file="file://$PROJECT_DIR$/../partyszerviz/system/cms/libraries/MX/Config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="42" selection-start="380" selection-end="380" vertical-scroll-proportion="-0.30612245" vertical-offset="459" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="355" selection-end="355" vertical-scroll-proportion="0.28754365" vertical-offset="195" max-vertical-offset="1054">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
