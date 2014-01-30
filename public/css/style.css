@@ -1,0 +1,49 @@
+/*   BASE   */
+body{
+    font-size:12px;
+    font-family: Tahoma;
+    color:#262626;
+    padding:0;
+    margin:0;
+    background: #ddd;
+}
+a{
+    color:#108bce;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#wrapper{
+    margin:0 auto;
+    width:700px;
+    background-color:#fff;
+    min-height:400px;
+}
+
+h1,h2,h3,h4,h5{
+    margin-top:0;
+    color: #555;
+}
+
+#header,
+#footer{
+    width:750px;
+    margin:10px auto;
+}
+
+#logo{
+    font-size:20px;
+    float:left;
+    border:1px solid #108bce;
+    border-radius:4px;
+    margin-right:10px;
+    padding:0 5px;
+}
+hr{
+    border:0 none;
+    border-top:1px solid #dddddd;
+}
+#header{
+    padding-top:8px;
+}
