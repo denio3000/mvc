@@ -16,15 +16,15 @@
  </head>
 <body>
 <div id="wrapper">
-    <div id="logo">MVC</div>
+    <a href="<? echo URL;?>" id="logo">MVC</a>
     <div id="header">
-        <a href="<? echo URL;?>/index">Home</a>
-        <a href="<? echo URL;?>/about">About</a>
+        <a href="<? echo URL;?>index">Home</a>
+        <a href="<? echo URL;?>about">About</a>
         <?php
             if (Session::get('loggedIn') == true){ ?>
                 <a href="<? echo URL;?>dashboard/logout">Logout</a>
         <?  }else{ ?>
-                 <a href="<? echo URL;?>/login">Login</a> <?
+                 <a href="<? echo URL;?>login">Login</a> <?
             }
         ?>
 

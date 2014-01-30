@@ -47,3 +47,10 @@ hr{
 #header{
     padding-top:8px;
 }
+#header a {
+    padding:3px 5px;
+    border-radius:2px;
+    background-color:#852;
+    color:#fff;
+
+}
